@@ -1,0 +1,141 @@
+@media (max-width:650px){
+ .icons{
+display:none;
+ }
+ .bars{
+    display: block;
+ }
+ .food-icon{
+    margin:10px;
+ }
+ .content1{
+    height:40vh;
+    width:100%;
+ }
+ .about{
+    height:35vh;
+    width:50vw;
+    margin:0px 10px;
+    gap:7px;
+ }
+ .about h1{
+    font-size:6vw;
+ }
+ .about p{
+    font-size: 2.5vw;
+ }
+ .about-btn{
+    height:30px;
+    width:30vw;
+    font-size: 3vw;
+    border-radius:25px;
+ }
+ 
+ .content2{
+    width:100%;
+    height:85vh;
+ }
+ .content2 h1{
+    margin-top: 10px;
+    font-size: 7vw;
+
+}
+ .cards{
+    height:70vh;
+    width:80vw;
+   
+ }
+ .card{
+    height:20vh;
+    width:30vw;
+    display: flex;
+    flex-direction: column;
+    padding:10px;
+    margin: 10px 10px;
+ }
+ .card-img{
+    height:13vh;
+    width:25vw;
+    border-radius: 15px;
+}
+.card-info h3   { 
+    font-size:4vw;
+}
+.card-info p{
+    font-size: 2vw;
+}
+.content3{
+    width:100%;
+    height:75vh;
+    gap:20px;
+ }
+ .content3{
+    width:100%;
+    height:40vh;
+    gap:10px;
+ }
+ .content3 h1{
+    margin:10px;
+    font-size: 8vw;
+ }
+.cards .row{
+    height:50%;
+    width:100%;
+    display: flex;
+ }
+ .box{
+    height:100%;
+    width:25%;
+ }
+ .recipe-btn{
+    height:17vh;
+    width:30vw;
+    font-size: 3vw;
+    margin:10px;
+    border-radius:20px;
+ }
+ .content4{
+    width:100%;
+    height:30vh;
+    padding: 10px;
+ }
+ .footer{
+    height:25vh;
+    width:80%;
+    padding: 10px;
+    gap:10px;
+    
+}
+ .footer .col1{
+    height:22vh;
+    width:80%;
+    padding: 10px;
+    gap:5px;
+
+}
+.footer .col1 .f1{
+    height: 12vh; /*63px*/
+    width: 167%;
+    border-radius: 50%;
+}
+.footer .col1  h4{
+    text-align: center;
+    font-size: 4vw;
+    font-weight: 600;
+}
+.foot{
+    display:flex;
+}
+.footer .col1  h3{
+    font-size: 4vw;
+    font-weight: 600;
+}
+.f3{
+    font-size: 3vw;
+}
+.footer .col2{
+    display: none;
+
+}
+}
+
